@@ -1,4 +1,4 @@
-![Intro](/pics/1.png)
+![Intro](/readme/1.png)
 # Introduction
 Model-Driven Telemetry (MDT) allows for near real-time measurements of operational and statistical data from networking devices. Performing advanced monitoring can trigger remedial tasks that usually require human intervention. The session will describe the architecture of an analytics platform which should give a starting point for experimenting with telemetry. Introducing MDT solution offers companies the opportunity to reduce the cost associated with large IT departments and to allocate human resources more strategically, reducing hours spent performing reactive work and focusing on more proactive activities. 
  
