@@ -1,7 +1,7 @@
 ![Intro](/readme/1.png)
 # About the LAB
 The goal of this lab is to showcase an example of Model-Driven Telmetry feature used in monitoring BGP neighborships. In a stable state, BGP neighbor flaps should not occur frequently. Frequent flaps indicate a problem with Circuit, Hardware, Software or Configuration. We want to monitor these flaps. You can use that information further in order to shutdown the neighbor in case of repeated alarm.  
-<img align="center" width=50% src="/readme/topo.png"></img>
+<img align="center" width=70% src="/readme/topo.png"></img>
 
 Upon completion of this lab you, you will be able to:
 - Configure Model-Driven Telemetry on Cisco IOS-XR devices 
